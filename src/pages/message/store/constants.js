@@ -1,0 +1,1 @@
+export const UNREAD_MESSAGE_NUM = 'message/UNREAD_MESSAGE_NUM';
